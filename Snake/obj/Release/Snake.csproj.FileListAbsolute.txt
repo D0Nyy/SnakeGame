@@ -1,0 +1,12 @@
+C:\Users\anton\Desktop\Games\Snake\Snake\bin\Release\Snake.exe.config
+C:\Users\anton\Desktop\Games\Snake\Snake\bin\Release\Snake.exe
+C:\Users\anton\Desktop\Games\Snake\Snake\bin\Release\Snake.pdb
+C:\Users\anton\Desktop\Games\Snake\Snake\obj\Release\Snake.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\Games\Snake\Snake\obj\Release\Snake.End.resources
+C:\Users\anton\Desktop\Games\Snake\Snake\obj\Release\Snake.Game.resources
+C:\Users\anton\Desktop\Games\Snake\Snake\obj\Release\Snake.Properties.Resources.resources
+C:\Users\anton\Desktop\Games\Snake\Snake\obj\Release\Snake.Settings.resources
+C:\Users\anton\Desktop\Games\Snake\Snake\obj\Release\Snake.csproj.GenerateResource.cache
+C:\Users\anton\Desktop\Games\Snake\Snake\obj\Release\Snake.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Games\Snake\Snake\obj\Release\Snake.exe
+C:\Users\anton\Desktop\Games\Snake\Snake\obj\Release\Snake.pdb
